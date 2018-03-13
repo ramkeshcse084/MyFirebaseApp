@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1058526975431",
+    "firebase_url": "https://ramkeshapps.firebaseio.com",
+    "project_id": "ramkeshapps",
+    "storage_bucket": "ramkeshapps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058526975431:android:1650d4bb20883e2b",
+        "android_client_info": {
+          "package_name": "com.nestedmango.myfirebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058526975431-41blmvcease1bod280uceq9odslc3vfa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_Nlyz07Rm0L4jxz3JFKZNtjhktAhc2eY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
